@@ -3,8 +3,8 @@ description: "サークルの公式ホームページ"
 theme: minima
 markdown: kramdown
 header_pages:
-- index.md
-- about.md
-- members.md
-- contact.md
-
+  - index.md
+  - about.md
+  - members.md
+  - links.md
+  - contact.md

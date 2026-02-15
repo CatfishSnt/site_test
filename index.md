@@ -1,5 +1,5 @@
 ---
-title: "サークル名"
+title: "ホーム"
 layout: default
 ---
 

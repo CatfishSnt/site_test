@@ -1,5 +1,5 @@
 ---
-title: "メンバー紹介"
+title: "部員紹介"
 layout: default
 ---
 

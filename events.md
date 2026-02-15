@@ -1,5 +1,5 @@
 ---
-title: "イベント"
+title: "大会結果"
 layout: default
 ---
 
