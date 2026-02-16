@@ -1,9 +1,9 @@
-title: "サークル名"
-description: "サークルの公式ホームページ"
+title: "阪大将棋部HP"
+description: "阪大将棋部の公式ホームページです。"
 theme: minima
 markdown: kramdown
 header_pages:
-  # - index.md
+  - index.md
   - about.md
   - members.md
   - links.md
