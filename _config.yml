@@ -5,6 +5,7 @@ markdown: kramdown
 header_pages:
   - index.md
   - about.md
-  - members.md
+  - memboers.md
+  - events.md
   - links.md
   - contact.md
